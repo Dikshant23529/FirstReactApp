@@ -1,0 +1,14 @@
+nav{
+    margin: 1rem 2rem;
+    display: flex;
+    /* justify-content: end; */
+    align-items: center;
+    justify-content: space-between;
+    text-transform: uppercase;
+}
+
+.react__nav-links{
+    display: flex;
+    gap: 1.2rem;
+    list-style: none;
+}

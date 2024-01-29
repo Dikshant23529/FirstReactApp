@@ -1,0 +1,37 @@
+.react__card{
+display: flex;
+/* border: 2px solid red; */
+gap: 2rem;
+margin: 1rem 2rem;
+}
+
+.react__card1{
+    border: 2px solid whitesmoke;
+    height: 300px;
+    padding: .8rem;
+}
+
+.react__card1 h1{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 1rem 0;
+}
+
+.react__card1 p{
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+
+
+.react__card1 button{
+    margin-top: 2rem;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 12px;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 700;
+}
